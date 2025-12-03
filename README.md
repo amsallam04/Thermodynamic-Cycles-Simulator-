@@ -93,18 +93,6 @@ View results in the summary metrics, tables, and diagrams tabs.
 
 Optionally, generate a detailed PDF report via Export Report tab.
 
-==========================================================================================
-
-Example Input Sets for Testing
-
-| Set |   Mode     | Cycle | P1 (kPa) | T1 (K) | r  | T3 or Tmax (K) | CV (kJ/kg) | AFR     | n    |
-| ---   | ------------ | -----     |   --------   | ------ - | -------------- | ---------- | ----       ---- |
-| 1    | Fuel-Air     | Otto  | 101.325  | 300    | 8  | 2000                   | 42000       14.7 | 1.32 |
-| 2    | Fuel-Air     | Otto  | 101.325  | 300    | 10 | 2300                  | 42000       | 14.7 | 1.32 |
-| 3    | Fuel-Air     | Otto  | 101.325  | 300    | 9  | 2200                   | 42000        13.0 | 1.38 |
-| 4    | Fuel-Air     | Otto  | 101.325  | 300    | 9  | 1900                   | 42000        | 16.0 | 1.40 |
-| 5    | Air-Standard | Otto  | 101.325  | 300    | 8  | 2000                | -                 | -    | 1.40 |
-
 ==============================================================================================
 
 Explanation of Key Metrics
